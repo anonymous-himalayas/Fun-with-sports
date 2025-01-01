@@ -35,6 +35,7 @@ all_data_df$injuries <- gsub("\"","",as.character(all_data_df$injuries))
 all_data_table = all_data_df
 all_data_table <- setDT(all_data_df)
 all_data_table
+
 as.numeric(as.character(all_data_table$id))
 as.numeric(as.character(all_data_table$`player value`))
 as.numeric(as.character(all_data_table$`training hours (weekly)`))
