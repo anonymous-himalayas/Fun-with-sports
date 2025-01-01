@@ -1,6 +1,7 @@
 # Analyzing Sports Trends
 
 - ETL and Exploratory Data Analysis done using R
+- Graphs done using Python and Matplotlib
 
 ## Executive Summary
 
